@@ -11,6 +11,7 @@ I have been a web developer since 2020.
  <br />
  <img src="https://img.shields.io/github/followers/amiryusupov?style=social" alt="Followers"/>
  <img src="https://komarev.com/ghpvc/?username=amiryusupov&label=Profile%20views&color=0e75b6&style=flat" alt="amirbekdev" />
+  <img src="https://wakatime.com/badge/github/amiryusupov/amiryusupov.svg" alt="amirbekdev" />
 </div>
 
 I'm fullstack junior javascript developer from Uzbekistan.
