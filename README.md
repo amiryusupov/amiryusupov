@@ -2,7 +2,7 @@
 
 My name is **Amir Yusupov**.
 <br>
-I am a full-stack web developer from Urgench, Uzbekistan, specializing in all things JavaScript, Node.js, React & TypeScript.
+I am a full-stack web developer from Urgench, Uzbekistan, specializing in all things JavaScript, TypeScript, Node.js, React.js & Next.js.
 <br>
 I have been a web developer since 2020.
 
@@ -11,7 +11,6 @@ I have been a web developer since 2020.
  <br />
  <img src="https://img.shields.io/github/followers/amiryusupov?style=social" alt="Followers"/>
  <img src="https://komarev.com/ghpvc/?username=amiryusupov&label=Profile%20views&color=0e75b6&style=flat" alt="amirbekdev" />
-  <img src="https://wakatime.com/badge/github/amiryusupov/amiryusupov.svg" alt="amirbekdev" />
 </div>
 
 I'm fullstack junior javascript developer from Uzbekistan.
@@ -32,18 +31,20 @@ I'm fullstack junior javascript developer from Uzbekistan.
 
 1. **Html, CSS, Javascript, Typescript**
 2. CSS preprocessors: **Scss, Sass**
-3. CSS frameworks and Utils: **Bootstrap, Ant-desgin, Styled-components, Tailwindcss**
+3. CSS frameworks and Utils: **Bootstrap, Ant design, Styled components, Tailwindcss**
 4. Javascript Library: **ReactJS, ExpressJs**
-5. Javascript Frameworks: **NodeJS**
+5. Javascript Frameworks: **NodeJS**, **NextJS**
 6. State Management: **Redux, Redux-Toolkit**
-7. UI Library: **Ant Design, Daisy-ui**
-8. Animation Library: **Gsap, SwiperJs**
+7. UI Library: **Daisy-ui**
+8. Animation Library: **Gsap**
 
 ---
 
 ## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryusupov&show_icons=true&theme=tokyonight)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiryusupov&layout=compact&theme=vision-friendly-dark)](https://github.com/amiryusupov/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiryusupov&theme=dark" alt="amiryusupov" />
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiryusupov&" alt="amiryusupov" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiryusupov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Amir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@amiryusupov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
