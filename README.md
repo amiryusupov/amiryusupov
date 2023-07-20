@@ -15,7 +15,7 @@ I have been a web developer since 2020.
 
 I'm fullstack junior javascript developer from Uzbekistan.
 
-- 🔭 I’m currently developing a web sites.
+- 🔭 I’m currently developing web sites.
 - 🌱 I’m looking forward in learning Next.js soon
 - 👯 I’m looking to collaborate with anyone on any projects.
 - 💬 Ask me about anything.
