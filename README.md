@@ -15,11 +15,11 @@ I have been a web developer since 2020.
 
 I'm fullstack junior javascript developer from Uzbekistan.
 
-- 🔭 I’m currently developing web sites.
+- 🔭 I’m currently developing on remolo-pizza.
 - 🌱 I’m looking forward in learning Next.js soon
-- 👯 I’m looking to collaborate with anyone on any projects.
+- 👯 I’m looking to collaborate with anyone on frontend projects.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I love play football, games and solve the cube.
+- ⚡ Fun fact: I love playing football, games and solve the cube.
 
 ## ✉️ Find me on:
 
