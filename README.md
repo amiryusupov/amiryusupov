@@ -2,9 +2,8 @@
 
 My name is **Amir Yusupov**.
 <br>
-I am a full-stack web developer from Urgench, Uzbekistan, specializing in JavaScript, TypeScript, Node.js, React.js & Next.js.
+I'm a full-stack web developer from Uzbekistan, specializing in JavaScript, TypeScript, Node.js, React.js & Next.js.
 <br>
-I have been a web developer since 2020.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -16,16 +15,15 @@ I have been a web developer since 2020.
 - 🔭 I’m currently developing on private project.
 - 🌱 I’m looking forward in learning Next.js soon
 - 👯 I’m looking to collaborate with anyone on frontend projects.
-- 💬 Ask me about anything.
-- ⚡ Fun fact: I love playing football, games and solve the cube.
+- 💬 Ask me about difficult problems
 
 ## ✉️ Find me on:
 
-[![telegram](https://img.shields.io/badge/-@amir-blue?style=for-the-badge&logo=telegram)](https://t.me/amir_yusup0v)
+[![telegram](https://img.shields.io/badge/-@amir-blue?style=for-the-badge&logo=telegram)](https://t.me/amiryusupov070)
 [![instagram](https://img.shields.io/badge/-@amir.yusupov-black?style=for-the-badge&logo=instagram)](https://instagram.com/amiryusupov.070)
 [![gmail](https://img.shields.io/badge/-@amir-white?style=for-the-badge&logo=gmail)](mailto:amiryusupov.070@gmail.com)
 
-## 🛠 Skills
+## 🛠 Skills:
 
 1. **Html, CSS, Javascript, Typescript**
 2. CSS preprocessors: **Scss, Sass**
@@ -39,10 +37,13 @@ I have been a web developer since 2020.
 ---
 
 ## 🏆 My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryusupov&show_icons=true&theme=tokyonight&line_height=26&hide=css)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryusupov&show_icons=true&theme=tokyonight)
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiryusupov&theme=dark" alt="amiryusupov" />
+### 🔥 Github Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amiryusupov&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiryusupov&layout=compact&theme=vision-friendly-dark&line_height=40&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙ Top languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiryusupov&layout=compact&theme=dark)
 <br/>
-[![Amir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@amiryusupov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### ⏳ Wakatime stats:
+[![Amir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amiryusupov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
