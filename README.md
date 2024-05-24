@@ -14,7 +14,7 @@ I'm a full-stack web developer from Uzbekistan, specializing in JavaScript, Type
 
 - 🔭 I’m currently iterating React.js.
 - 🌱 I’m looking forward in learning Next.js soon.
-- 👯 I’m looking to collaborate with anyone on frontend projects.
+- 👯 I’m looking to collaborate with anyone on front-end or back-end projects.
 - 💬 Ask me about difficult problems.
 
 ## ✉️ Find me on:
@@ -25,7 +25,7 @@ I'm a full-stack web developer from Uzbekistan, specializing in JavaScript, Type
 
 ## 🛠 Skills:
 
-1. **Html, CSS, Javascript, Typescript**
+1. Programming languages: **Html, CSS, Javascript, Typescript**
 2. CSS preprocessors: **Scss, Sass**
 3. CSS frameworks and Utils: **Bootstrap, Ant design, Styled components, Tailwindcss**
 4. Javascript Library: **ReactJS, NextJS, ExpressJS**
