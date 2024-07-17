@@ -20,14 +20,14 @@ I'm a full-stack web developer from Uzbekistan, specializing in JavaScript, Type
 ## ✉️ Find me on:
 
 [![telegram](https://img.shields.io/badge/-@amir-blue?style=for-the-badge&logo=telegram)](https://t.me/amiryusupov070)
-[![instagram](https://img.shields.io/badge/-@amir.yusupov-black?style=for-the-badge&logo=instagram)](https://instagram.com/amiryusupov.070)
+[![instagram](https://img.shields.io/badge/-@amir.yusupov-black?style=for-the-badge&logo=instagram)](https://instagram.com/amiryusupovv)
 [![gmail](https://img.shields.io/badge/-@amir-white?style=for-the-badge&logo=gmail)](mailto:amiryusupov.070@gmail.com)
 
 ## 🛠 Skills:
 
 1. Programming languages: **Html, CSS, Javascript, Typescript**
 2. CSS preprocessors: **Scss, Sass**
-3. CSS frameworks and Utils: **Bootstrap, Ant design, Styled components, Tailwindcss**
+3. CSS frameworks and Utils: **Bootstrap, Ant Design, Styled Components, TailwindCSS**
 4. Javascript Library: **ReactJS, NextJS, ExpressJS**
 5. Javascript Frameworks: **NodeJS**
 6. State Management: **Redux, Redux-Toolkit**
