@@ -12,7 +12,7 @@ I'm a full-stack web developer from Uzbekistan, specializing in JavaScript, Type
  <img src="https://komarev.com/ghpvc/?username=amiryusupov&label=Profile%20views&color=0e75b6&style=flat" alt="amirbekdev" />
 </div>
 
-- 🔭 I’m currently iterating React.js.
+- 🔭 I’m currently on vacation.
 - 🌱 I’m looking forward in learning Next.js soon.
 - 👯 I’m looking to collaborate with anyone on front-end or back-end projects.
 - 💬 Ask me about difficult problems.
