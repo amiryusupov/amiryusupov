@@ -21,7 +21,7 @@ I'm a full-stack web developer from Uzbekistan, specializing in JavaScript, Type
 
 [![telegram](https://img.shields.io/badge/-@amir-blue?style=for-the-badge&logo=telegram)](https://t.me/amiryusupov070)
 [![instagram](https://img.shields.io/badge/-@amir.yusupov-black?style=for-the-badge&logo=instagram)](https://instagram.com/amiryusupovv)
-[![gmail](https://img.shields.io/badge/-@amir-white?style=for-the-badge&logo=gmail)](mailto:amiryusupov.070@gmail.com)
+[![gmail](https://img.shields.io/badge/-@amir-white?style=for-the-badge&logo=gmail)](mailto:amiryusupov.7717@gmail.com)
 
 ## 🛠 Skills:
 
